@@ -1,0 +1,13 @@
+diff --git a/contrib/gitian-descriptors/gitian-linux.yml b/contrib/gitian-descriptors/gitian-linux.yml
+index 9281d43..6975ce3 100644
+--- a/contrib/gitian-descriptors/gitian-linux.yml
++++ b/contrib/gitian-descriptors/gitian-linux.yml
+@@ -85,7 +85,7 @@ script: |
+   BASEPREFIX=`pwd`/depends
+   # Build dependencies for each host
+   for i in $HOSTS; do
+-    make ${MAKEOPTS} -C ${BASEPREFIX} HOST="${i}"
++    NO_PROTON="x" make ${MAKEOPTS} -C ${BASEPREFIX} HOST="${i}"
+   done
+ 
+   # Faketime for binaries
