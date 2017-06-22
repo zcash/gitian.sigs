@@ -363,16 +363,26 @@
 - cache_package_manifest: |
     5383c0772a3e5a194d1121489d5b5fc131ad64157f6fbdfd14e5b96a682a7100  x86_64-unknown-linux-gnu/boost/boost-1_62_0-7947657a1eb.tar.gz
     2e5688236a7b5395d5f7e0374b7603210b8c89dc2950fdf79afb5e6152894f8c  x86_64-unknown-linux-gnu/boost/boost-1_62_0-7947657a1eb.tar.gz.hash
+    7a730703356d4b9448d1360208590a15aa96270867253b0b9d5003cee85ad864  x86_64-unknown-linux-gnu/googlemock/googlemock-1.7.0-071f55427f3.tar.gz
+    6aecbf3db0dfa911f72c32f8a55331e9baabda1ce151059d769814a094b84b64  x86_64-unknown-linux-gnu/googlemock/googlemock-1.7.0-071f55427f3.tar.gz.hash
+    5cb4e080de230a0e6993f5b830bf4fff3ed8a6e3753f3a16c8e8d00098382b3d  x86_64-unknown-linux-gnu/googletest/googletest-1.7.0-ea13dc1dc0c.tar.gz
+    073b6838285c9d67a7278660eacc14d2dc7693baa28cdf042fb512b57ae64d27  x86_64-unknown-linux-gnu/googletest/googletest-1.7.0-ea13dc1dc0c.tar.gz.hash
     62c43da8e41721fdc47f1e0192854bdd3627c080d3320fd3f781cc04ae0a5b71  x86_64-unknown-linux-gnu/libevent/libevent-2.1.8-dffd928ef34.tar.gz
     664f44bff17247b4b4dedc1ac25d37319a76d8a6b777163755454d6c88c203fc  x86_64-unknown-linux-gnu/libevent/libevent-2.1.8-dffd928ef34.tar.gz.hash
     df721a1fa715e1a7a345fe2dbc5cab7e3a1b74b3967155aa77e5bd45a1b6a660  x86_64-unknown-linux-gnu/libgmp/libgmp-6.1.1-500d6b79756.tar.gz
     66f7d8c5b0ddfd8192e445096f1a2b876b6915fc29e0b45683b570be118f9560  x86_64-unknown-linux-gnu/libgmp/libgmp-6.1.1-500d6b79756.tar.gz.hash
+    74834ebd7ac14c67a6de1ac3ca99575ace7c176e39a443d6073864c56bce4121  x86_64-unknown-linux-gnu/librustzcash/librustzcash-0.1-14641867ed9.tar.gz
+    d0a76e9f0e844e0360745bcc6d4ed4bc8f51cfaa8cfb1154c1274ca046267acd  x86_64-unknown-linux-gnu/librustzcash/librustzcash-0.1-14641867ed9.tar.gz.hash
+    8615158e35a8090d009eaf5eda65a837affed68923092f0dfc3085c505979452  x86_64-unknown-linux-gnu/libsnark/libsnark-0.1-0be28769071.tar.gz
+    44630231ff7ec83b00103b3d01ccf78e68156023e1afd74a82198095ab04ce0e  x86_64-unknown-linux-gnu/libsnark/libsnark-0.1-0be28769071.tar.gz.hash
     e090c3e311c88ace92a24f1400afa055afde7188be7a744ba449567cae977f0c  x86_64-unknown-linux-gnu/libsodium/libsodium-1.0.11-3602196f79c.tar.gz
     041107a715c4ef2fc5d1da7c2701927cbdedfdd634d6e28f33c7a49a33ba25fe  x86_64-unknown-linux-gnu/libsodium/libsodium-1.0.11-3602196f79c.tar.gz.hash
     65cd4497b498f3a3bcd2c763389855b67859d72d55b7f76e1726e48637f64200  x86_64-unknown-linux-gnu/native_ccache/native_ccache-3.3.1-e12a2d7284a.tar.gz
     002be4f9af51add9cb52e002ec018ea9f4ff5bdd25d8cde1ac41a116179c916a  x86_64-unknown-linux-gnu/native_ccache/native_ccache-3.3.1-e12a2d7284a.tar.gz.hash
     e7fc5d1fe9edab222d11c1cd1925206b2e1a061a55a64112fab33a1f3f594325  x86_64-unknown-linux-gnu/openssl/openssl-1.1.0d-26af09780a1.tar.gz
     3969da34e312c0070b74b5686de5e4c6610c5b7246681e00e3aac53452cfd72a  x86_64-unknown-linux-gnu/openssl/openssl-1.1.0d-26af09780a1.tar.gz.hash
+    38089650e36bb1dbd8bc7d51a2d98e7eb8db3c4f39a3605be9a43f7ecf7b9f8c  x86_64-unknown-linux-gnu/rust/rust-1.16.0-8cf76280955.tar.gz
+    9dafd93f5ab8040a074436e4a7c911604a0dd5a20df4f8a9c2be450480a73be0  x86_64-unknown-linux-gnu/rust/rust-1.16.0-8cf76280955.tar.gz.hash
     9828d6d8e6c68ec5cae5eb2c049850a509402356bfa0f3dbbf96e3cdda98ee9c  x86_64-unknown-linux-gnu/zeromq/zeromq-4.2.1-306d3a94182.tar.gz
     a164c3fef5e303ff8619950ff94a3afbdcfc39d961f7c8af700202cd23d79b8a  x86_64-unknown-linux-gnu/zeromq/zeromq-4.2.1-306d3a94182.tar.gz.hash
 - release: v1.0.10
