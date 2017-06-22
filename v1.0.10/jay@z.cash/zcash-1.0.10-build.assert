@@ -1,7 +1,10 @@
 --- !omap
-- out_manifest: ''
+- out_manifest: |
+    204de3521a382e0a4df0be27bfce04299bdb1bfc5eb3e512fcb124bbf5720c1a  src/zcash-1.0.10.tar.gz
+    30fe0841f151a8558511edc6d8649967a1fb5819f79063a2d7103f66e04f3198  zcash-1.0.10-linux64-debug.tar.gz
+    2eef9a9ca96d540c010c9a78a3e5dc8f9c6a5350f0938360af224b7d787e8558  zcash-1.0.10-linux64.tar.gz
 - in_manifest: |-
-    fa9bb535b004ad1549c4e9c163ad4ad7d5c167d6c182b4649907980d9c2a3c05  zcash-1.0.10-desc.yml
+    7d12e25f707c982dd6b02516754879a9e1d8278b7b6228863e2c13cb20f4a86c  zcash-1.0.10-desc.yml
     git:d52ac0d498fb003f35c0419315fe7c91b1ad00bc zcash
 - base_manifests: !omap
   - jessie-amd64: |
@@ -361,6 +364,8 @@
     48621912c242753ba37cad5145df375eeba41c81079df46f93ffb4896542e8fd  rust-1.16.0-x86_64-unknown-linux-gnu.tar.gz
     27d1e82a099228ee85a7ddb2260f40830212402c605a4a10b5e5498a7e0e9d03  zeromq-4.2.1.tar.gz
 - cache_package_manifest: |
+    4837ddd8bd1922d9f7f4858c3bb6ab660ede0600ffef470f238563e38bfa7a40  x86_64-unknown-linux-gnu/bdb/bdb-6.2.23-2b74329ae36.tar.gz
+    edc4fc24d0c28940a897b31dd95f1ec517158e60e4dd2466b4e4af73c90ad5d2  x86_64-unknown-linux-gnu/bdb/bdb-6.2.23-2b74329ae36.tar.gz.hash
     5383c0772a3e5a194d1121489d5b5fc131ad64157f6fbdfd14e5b96a682a7100  x86_64-unknown-linux-gnu/boost/boost-1_62_0-7947657a1eb.tar.gz
     2e5688236a7b5395d5f7e0374b7603210b8c89dc2950fdf79afb5e6152894f8c  x86_64-unknown-linux-gnu/boost/boost-1_62_0-7947657a1eb.tar.gz.hash
     7a730703356d4b9448d1360208590a15aa96270867253b0b9d5003cee85ad864  x86_64-unknown-linux-gnu/googlemock/googlemock-1.7.0-071f55427f3.tar.gz
@@ -377,6 +382,8 @@
     44630231ff7ec83b00103b3d01ccf78e68156023e1afd74a82198095ab04ce0e  x86_64-unknown-linux-gnu/libsnark/libsnark-0.1-0be28769071.tar.gz.hash
     e090c3e311c88ace92a24f1400afa055afde7188be7a744ba449567cae977f0c  x86_64-unknown-linux-gnu/libsodium/libsodium-1.0.11-3602196f79c.tar.gz
     041107a715c4ef2fc5d1da7c2701927cbdedfdd634d6e28f33c7a49a33ba25fe  x86_64-unknown-linux-gnu/libsodium/libsodium-1.0.11-3602196f79c.tar.gz.hash
+    d10d11044d1d996a06ca97f73f79db5d2b90b58764af6870ba6ef0cf877662d3  x86_64-unknown-linux-gnu/miniupnpc/miniupnpc-2.0-6338aa6f8f3.tar.gz
+    688d2a45a8c3c3942dde7c5a4b7b1d09ae00bb631005c99391961e5f2d92f3f9  x86_64-unknown-linux-gnu/miniupnpc/miniupnpc-2.0-6338aa6f8f3.tar.gz.hash
     65cd4497b498f3a3bcd2c763389855b67859d72d55b7f76e1726e48637f64200  x86_64-unknown-linux-gnu/native_ccache/native_ccache-3.3.1-e12a2d7284a.tar.gz
     002be4f9af51add9cb52e002ec018ea9f4ff5bdd25d8cde1ac41a116179c916a  x86_64-unknown-linux-gnu/native_ccache/native_ccache-3.3.1-e12a2d7284a.tar.gz.hash
     e7fc5d1fe9edab222d11c1cd1925206b2e1a061a55a64112fab33a1f3f594325  x86_64-unknown-linux-gnu/openssl/openssl-1.1.0d-26af09780a1.tar.gz
