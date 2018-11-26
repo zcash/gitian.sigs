@@ -46,7 +46,7 @@ try:
     with open(assert_out, 'wb') as f:
         f.write(outdata)
 finally:
-    # clean up temorary files and directory
+    # clean up temporary files and directory
     for x in glob.glob(tempdir+'/*'):
         os.remove(x)
     os.rmdir(tempdir)
