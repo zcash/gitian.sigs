@@ -1,8 +1,8 @@
 --- !omap
 - out_manifest: |
     0fea7174a126552abc5b5d0fae03dc3bff7e607fc0faba6733090f3096042143  src/zcash-2.0.2.tar.gz
-    4402a0cd38cc5bebdbec9f950fcfdde1c663214ba23e9d279a620e0645f8b7ae  zcash-2.0.2-linux64-debug.tar.gz
-    8f049fd7f2a8e595bc9b6d949f409cda1b32daa7ae5608f041892101c858df1e  zcash-2.0.2-linux64.tar.gz
+    d103a451a7215ad88601766e67a2571bf2087513934bfae6d184c8e50bc082eb  zcash-2.0.2-linux64-debug.tar.gz
+    54171c6baf853d306525336d09dc1acab723573f64d1d82efa6b3a975a3354db  zcash-2.0.2-linux64.tar.gz
 - in_manifest: |-
     261ae3818894ea19be5a4d360a9f21fd20c88bac7c71abff710b091e4fa1a942  zcash-2.0.2-desc.yml
     git:8e2ca4d94e2f1bc0835d3d888a969fe2e83e7ece zcash
