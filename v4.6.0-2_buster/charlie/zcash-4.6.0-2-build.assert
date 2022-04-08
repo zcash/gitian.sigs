@@ -344,7 +344,7 @@
     959af8bafbc9f3916a1d1111d7378fdd7aa459410cdd2d3bbfc2d9d9a6db0683  rust-std-1.59.0-x86_64-apple-darwin.tar.gz
     9a67ae84e9e75efb57eeeab617e32379a555de336a30bb74a476e575cd38f63a  rust-std-1.59.0-x86_64-pc-windows-gnu.tar.gz
     8d6aa7d77ad0abb35bb6139cb9a33597ac4c5b33da6a004ae42429b8598c9605  utfcpp-3.2.1.tar.gz
-    f95d4c8d19426973cdf4cc105a52dfb2c2e8f09399aab54c4c5ac1d7011829c4  vendored-crates.tar.gz
+    717aa5f69c930bb5bb54d1fb5caa36e9a759a011a0bd3256bfcf9e3b8973b0ef  vendored-crates.tar.gz
     c593001a89f5a85dd2ddf564805deb860e02471171b3f204944857336295c3e5  zeromq-4.3.4.tar.gz
 - cache_package_manifest: |
     d3c061b7fd3f2a494cfcc2d1a6dc6db36e4de1c11939ddcd6c552ac955aaf966  x86_64-linux-gnu/bdb/bdb-6.2.23-b1c9570641b.tar.gz
