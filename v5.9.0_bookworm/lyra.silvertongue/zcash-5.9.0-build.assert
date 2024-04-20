@@ -355,7 +355,7 @@
     2ca4a306047c0b8b4029c382910fcbc895badc29680e0332c9df990fd1c70d4f  rust-1.69.0-x86_64-unknown-linux-gnu.tar.gz
     1db357f46dd2b24447156aaf970c4c40a793ef12a8a9c2ad9e096d9801368df6  tl_expected_1.1.0.tar.gz
     ffc668a310e77607d393f3c18b32715f223da1eac4c4d6e0579a11df8e6b59cf  utfcpp-4.0.5.tar.gz
-    36da25252c17f2bbde899845109a782e4b79c1b22aa003df22cbcaab686855c3  vendored-crates.tar.gz
+    353a4a96b795172a10dee9cf64e4156656ecc02a5d1a2c04ad96bb3da31491db  vendored-crates.tar.gz
     6653ef5910f17954861fe72332e68b03ca6e4d9c7160eb3a8de5a5a913bfab43  zeromq-4.3.5.tar.gz
     8c29e06cf42aacc1eafc4077ae2ec6c6fcb96a626157e0593d5e82a34fd403c1  zstd-1.5.6.tar.gz
 - cache_package_manifest: |
