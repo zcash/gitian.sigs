@@ -1,0 +1,9 @@
+--- !!omap
+- out_manifest: |
+    d09bfe446eb4be5fc9473fdae8eaad8b3c71d5be46eb40fe23c438f1d68624a1  src/zcash-6.12.0.tar.gz
+    4bb3b143df4a2dbea17b6ce4884a236ab9d9792f38d91f51bb119f6ef0e3b1ab  zcash-6.12.0-linux64-debug.tar.gz
+    9ae25da27b185b6fa016f5005dca39203629b763e7ec1b5f389cd3f5acb3e9c4  zcash-6.12.0-linux64.tar.gz
+- in_manifest: |-
+    24d0cbaf9cdd4a64d736bab5bd2aa04e9f2f6385d4d41c01602ba0ddcf8b09e6  zcash-6.12.0-desc.yml
+    git:5145b8543caecf3f2b705d150161dd06192cf4da zcash
+- base_manifests: !!omap
